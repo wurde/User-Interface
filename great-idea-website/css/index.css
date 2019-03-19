@@ -76,11 +76,17 @@ h1, h2, h3, h4, h5 {
 
 .row {
   display: block;
+  padding: 20px 0px;
 }
 
 .col-12 {
   display: inline-block;
   width: 100%;
+}
+
+.col-9 {
+  display: inline-block;
+  width: 75%;
 }
 
 .col-6 {
@@ -93,9 +99,9 @@ h1, h2, h3, h4, h5 {
   width: 33%;
 }
 
-.navbar {
-  width: 100%;
-  padding: 20px 0px;
+.col-3 {
+  display: inline-block;
+  width: 24%;
 }
 
 .navlink {
