@@ -123,8 +123,8 @@ p {
   color: #777;
 }
 
-.text-size-4x {
-  font-size: 4rem;
+.text-size-5x {
+  font-size: 5rem;
 }
 
 .btn {
@@ -142,11 +142,11 @@ p {
 }
 
 .mt-3 {
-  margin-top: 14px;
+  margin-top: 12px;
 }
 
 .mt-6 {
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 .py-2 {
@@ -159,6 +159,10 @@ p {
 
 .text-center {
   text-align: center;
+}
+
+.text-right {
+  text-align: right;
 }
 
 .page-border {
