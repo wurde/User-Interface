@@ -69,6 +69,10 @@ h1, h2, h3, h4, h5 {
   color: #000;
 }
 
+p {
+  line-height: 1.3rem;
+}
+
 .container {
   min-width: 900px;
   width: 90%;
