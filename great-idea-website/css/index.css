@@ -134,5 +134,21 @@ h1, h2, h3, h4, h5 {
 }
 
 .mt-3 {
-  padding-top: 14px;
+  margin-top: 14px;
+}
+
+.mt-6 {
+  margin-top: 100px;
+}
+
+.pb-6 {
+  padding-bottom: 100px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.page-border {
+  border: 1px solid black;
 }
