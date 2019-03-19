@@ -80,6 +80,10 @@ h1, h2, h3, h4, h5 {
   padding: 20px 0px;
 }
 
+.col, .col-12, .col-9, .col-6, .col-4, .col-3 {
+  padding: 0px 20px;
+}
+
 .col-12 {
   display: inline-block;
   width: 100%;
@@ -139,6 +143,10 @@ h1, h2, h3, h4, h5 {
 
 .mt-6 {
   margin-top: 100px;
+}
+
+.py-2 {
+  padding: 10px 0px;
 }
 
 .pb-6 {
